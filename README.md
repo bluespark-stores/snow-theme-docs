@@ -7,7 +7,7 @@ A clean and modern Shopify theme by Bernardo.
 ## Quick Links
 
 - [Documentation](https://bluespark-stores.github.io/snow-theme-docs)
-- [Support](https://bluespark-stores.github.io/snow-theme-docs#contact)
+- [Support](https://bluespark-stores.github.io/snow-theme-docs/contact.html)
 
 ## About
 
